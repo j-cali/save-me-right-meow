@@ -1,11 +1,11 @@
-TITLE: Save Me Right Meow
-AUTHOR: John Calilung
+# Save Me Right Meow
+Author: John Calilung
 
-HOW TO RUN / INSTALL:
+### How to Run
     Assuming you have python and pygame installed...
 
     Option 1:
-        1. Go to Save Me Right Meow directory where this README file is located.
+        1. Go to save-me-right-meow directory where this README file is located.
         2. Then run the program from the command line:
             $ python main.py
 
@@ -13,14 +13,14 @@ HOW TO RUN / INSTALL:
         1. Open up Save Me Right Meow folder.
         2. Double-click main.py
 
-STORY:
+#### STORY
     One day you wake up to find yourself in another dimension . . . or a dream?
     You don't know where you are and why you are here . . . wait . . .
     You see many creatures from lions to lizard men . . .
     AGH! CATS! (btw you are allergic to cats)
     Plot twist: You must save the cats to easily progress this universe (game).
 
-OBJECTIVE:
+#### OBJECTIVE
     Shoot enemies (moving enemies that are not cats) with your wind power.
     Cats can't be destroyed with your wind power.
     Drop food to save the cats. Feeding the cats will also increase your wind ammo.
@@ -30,7 +30,7 @@ OBJECTIVE:
     Each round you pass you gain one extra life and +30 seconds to your time.
     Get points by destroying enemies and saving cats. Get through all the rounds to win the game. Good luck!
 
-HOW TO PLAY (INSTRUCTIONS):
+#### HOW TO PLAY (INSTRUCTIONS)
     Main Controls
         - Arrow keys to move up, down, left, right
         - Space bar to shoot wind
@@ -47,7 +47,7 @@ HOW TO PLAY (INSTRUCTIONS):
         Caution: If an enemy eats these instead, the enemy will increase its speed.
     Rack up food inventory to save cats, and in turn gaining more wind ammo.
 
-GAME INFORMATION:
+#### GAME INFORMATION
     On Rounds
         Each time you pass a round you gain one life and +30 seconds for your game time.
     On Winds
@@ -73,20 +73,18 @@ GAME INFORMATION:
         Cat                 20        (3, 7)         n/a
         Boss                50          4             20
 
-BUGS:
+### BUGS
     * Dropping the food will sometimes not show the food image.
 	* Round 5 - Dragon sometimes goes off screen. (Fix generate_enemies method in setup_round5.py)
 	
 	
 	
-=========================================================================
-=================================SOURCES=================================
-=========================================================================
+## SOURCES
 Some links of the sources I used for 'Save Me Right Meow'.
 
 
 
-========================IMAGES USED========================
+#### IMAGES USED
 
 dragon.png and boss.png
 http://www.gdunlimited.net/forums/topic/9493-dragon-sprites/
@@ -129,13 +127,13 @@ silverIV (used in Tiled)
 http://opengameart.org/content/basic-map-32x32-by-silver-iv
 
 
-========================FONTS USED========================
+#### FONTS USED
 https://www.fontsquirrel.com/fonts/Green-Fuz
 http://www.1001fonts.com/digital-7-font.html
 https://www.fontsquirrel.com/fonts/kaushan-script
 
 
-========================MUSIC/SOUND SOURCES========================
+#### MUSIC/SOUND SOURCES
 
 Main Music (Includes all rounds):
 slumlord by lo tag blanco (c) copyright 2006 Licensed under a Creative Commons Attribution license.
