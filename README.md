@@ -13,24 +13,23 @@ Author: John Calilung
         1. Open up Save Me Right Meow folder.
         2. Double-click main.py
 
-#### STORY
-    One day you wake up to find yourself in another dimension . . . or a dream?
+### STORY && OBJECTIVE
+![STORY: One day you wake up to find yourself in another dimension . . . or a dream?
     You don't know where you are and why you are here . . . wait . . .
     You see many creatures from lions to lizard men . . .
     AGH! CATS! (btw you are allergic to cats)
     Plot twist: You must save the cats to easily progress this universe (game).
-
-#### OBJECTIVE
-    Shoot enemies (moving enemies that are not cats) with your wind power.
+    OBJECTIVE:    Shoot enemies (moving enemies that are not cats) with your wind power.
     Cats can't be destroyed with your wind power.
     Drop food to save the cats. Feeding the cats will also increase your wind ammo.
     Enemies can eat the food you drop and increase their speed, so be careful.
     Cats and enemies can take your life, you start with 9 lives (like a cat).
     When you die, your wind ammo and wind speed reset to 1.
     Each round you pass you gain one extra life and +30 seconds to your time.
-    Get points by destroying enemies and saving cats. Get through all the rounds to win the game. Good luck!
+    Get points by destroying enemies and saving cats. Get through all the rounds to win the game. Good luck!](images/story-objective.png?raw=true "Story & Objective")
 
-#### HOW TO PLAY (INSTRUCTIONS)
+
+### HOW TO PLAY (INSTRUCTIONS)
     Main Controls
         - Arrow keys to move up, down, left, right
         - Space bar to shoot wind
@@ -38,16 +37,17 @@ Author: John Calilung
     Other
         - 'm' to turn music on/off
         - 'p' to pause the game
-
-    Use the arrow keys to move up, down, left, or right.
+        
+![Use the arrow keys to move up, down, left, or right.
     Use the space bar button to create winds and destroy things.
     Destroy rocks to increase your wind speed.
     Destroy enemies to increase your food inventory.
     Help save the cats by dropping food (pressing down the x button).
         Caution: If an enemy eats these instead, the enemy will increase its speed.
-    Rack up food inventory to save cats, and in turn gaining more wind ammo.
+    Rack up food inventory to save cats, and in turn gaining more wind ammo.](images/instructions.png?raw=true "Instructions")
 
-#### GAME INFORMATION
+
+### GAME INFORMATION
     On Rounds
         Each time you pass a round you gain one life and +30 seconds for your game time.
     On Winds
@@ -73,15 +73,18 @@ Author: John Calilung
         Cat                 20        (3, 7)         n/a
         Boss                50          4             20
 
-### BUGS
-    * Dropping the food will sometimes not show the food image.
-	* Round 5 - Dragon sometimes goes off screen. (Fix generate_enemies method in setup_round5.py)
+
+### Gameplay
+The start screen for the game
+![Screenshot of the start screen](images/start-screen.png?raw=true "Start Screen")
+
+The first level (see wind power being used)
+![Screenshot of gameplay](images/gameplay.png?raw=true "Gameplay")
 	
 	
 	
 ## SOURCES
 Some links of the sources I used for 'Save Me Right Meow'.
-
 
 
 #### IMAGES USED
